@@ -1,0 +1,26 @@
+Dayweek,Day of week,Christmas Period,Easter Period,date_id
+Friday,Weekday,Yes,No,d1
+Friday,Weekday,No,No,d2
+Friday,Weekend,No,No,d3
+Monday,Weekend,No,No,d4
+Monday,Weekday,No,No,d5
+Monday,Weekday,Yes,No,d6
+Saturday,Weekend,No,No,d7
+Saturday,Weekend,Yes,No,d8
+Sunday,Weekend,No,No,d9
+Thursday,Weekday,No,No,d10
+Tuesday,Weekday,Yes,No,d11
+Tuesday,Weekday,No,No,d12
+Wednesday,Weekday,Yes,No,d13
+Wednesday,Weekday,No,No,d14
+Monday,Weekday,No,Yes,d15
+Friday,Weekday,No,Yes,d16
+Friday,Weekend,No,Yes,d17
+Saturday,Weekend,No,Yes,d18
+Sunday,Weekend,No,Yes,d19
+Thursday,Weekday,No,Yes,d20
+Sunday,Weekend,Yes,No,d21
+Thursday,Weekday,Yes,No,d22
+Monday,Weekend,Yes,No,d23
+Friday,Weekend,Yes,No,d24
+Monday,Weekend,No,Yes,d25

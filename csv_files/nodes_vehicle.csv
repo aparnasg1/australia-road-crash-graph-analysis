@@ -1,0 +1,8 @@
+vehicle_type,vehicle_id
+no heavy vehicles involved,v1
+only articulated truck involved,v2
+bus and articulated truck involved,v3
+only heavy rigid involved,v4
+articulated and heavy rigid truck involved,v5
+only bus involved,v6
+bus and heavy rigid truck involved,v7
