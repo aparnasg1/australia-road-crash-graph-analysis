@@ -1,11 +1,6 @@
 # australia-road-crash-graph-analysis
 A graph database project using Neo4j to analyze Australian road fatalities. Includes property graph modeling, ETL, Cypher queries and graph algorithms for pattern discovery and insights.
 
-### CITS5504 Graph Database Project – Australian Road Fatalities
-
-This repository contains all files and documentation for the **Graph Database Project** of the unit **CITS5504: Data Warehousing** at The University of Western Australia (Semester 1, 2025). The project focuses on using **Neo4j** to analyze Australian road fatality data through graph modeling and analytics.
-
----
 
 #### Project Overview
 
@@ -21,13 +16,10 @@ The objective of this project is to:
 
 #### Contents
 
-* data/: Cleaned and structured datasets.
-* etl/: Python scripts for transforming tabular data into graph-friendly format.
-* cypher/: Cypher scripts for creating and querying the graph.
-* gds/: Cypher scripts and results for applying graph algorithms.
-* design/: Graph schema design (Arrows App diagram or screenshots).
-* screenshots/: Output screenshots from Neo4j Browser or Bloom.
-* report/: Final PDF report including design, queries, results, and discussion.
+* csv_files/: Cleaned and structured datasets.
+* scripts_codes/etl.py: Python scripts for transforming tabular data into graph-friendly format.
+* scripts_codes/all_scripts.txt: Cypher scripts for creating and querying the graph.
+* Project_2_report.pdf: Final PDF report including design, queries, results, and discussion.
 
 ---
 
